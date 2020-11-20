@@ -1,0 +1,32 @@
+footer {
+
+	 
+		text-align: center;
+		margin: 0px 0px 0px 0px;
+		font-family: arial, helvetica;
+		font-weight: bold ;
+		
+}
+
+h1 {
+
+			margin-bottom: 0.5rem;
+			margin-top:3rem;
+	}
+
+h2 {
+
+
+}
+
+a:hover {
+
+			text-decoration: none;
+	}
+
+body {
+
+		background-color: beige;
+		color:black;
+		text-align: center;
+}
